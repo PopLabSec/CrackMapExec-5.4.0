@@ -1,5 +1,8 @@
 ---
-description: Learn how to attack WinRM using CrackMapExec, full offensive guide.
+description: >-
+  Dive into our detailed article about CrackMapExec WinRM, where we unpick its
+  functionalities, utilities, & potential. Explore this efficient tool
+  revolutionizing network security.
 cover: ../.gitbook/assets/GitBook Covers (1).png
 coverY: 0
 ---

@@ -1,4 +1,8 @@
 ---
+description: >-
+  Dive into our comprehensive article about CrackMapExec LDAP, your go-to tool
+  for penetration testing. Discover its functionalities, benefits and how to
+  utilize it effectively.
 cover: ../../.gitbook/assets/CrackMapExec - LDAP Modules.png
 coverY: 84.58149779735683
 ---

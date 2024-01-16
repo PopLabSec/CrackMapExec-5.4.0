@@ -1,7 +1,8 @@
 ---
 description: >-
-  Use CrackMapExec to attack FTP services, brute force, password spraying,
-  kerberos authentication.
+  Explore our thorough investigation into CrackMapExec FTP in this comprehensive
+  article. Dive deep into its features, usage, and benefits for better network
+  security protocols.
 cover: ../.gitbook/assets/CrackMapExec - FTP Modules.png
 coverY: 98.854242204496
 ---

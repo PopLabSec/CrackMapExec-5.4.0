@@ -1,7 +1,8 @@
 ---
 description: >-
-  Attack RDP protocol with CrackMapExec, brute force logins, take remote
-  screenshots and more...
+  Explore our detailed article on CrackMapExec RDP, an essential tool for
+  network admins and cybersecurity specialists. Learn its uses, features, and
+  benefits. Your ultimate guide on CrackMapExec RDP.
 cover: ../.gitbook/assets/GitBook Covers (1).png
 coverY: 0
 ---

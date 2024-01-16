@@ -1,12 +1,15 @@
 ---
-description: CrackMapExec 5.4.0 documentation by RFS
+description: >-
+  Dive into our comprehensive article featuring the Keyword: CrackMapExec.
+  Discover its capabilities, from network defense to penetration testing, in a
+  detailed expose.
 cover: .gitbook/assets/GitBook Covers (1).png
 coverY: 0
 ---
 
 # 💞 A swiss army knife for Pentesting networks
 
-I'm not affiliated with CrackMapExec project, but I love their work!
+CrackMapExec 5.4.0 documentation by RFS. I'm not affiliated with CrackMapExec project, but I love their work!
 
 <mark style="color:red;">Please consider supporting the team</mark> [https://porchetta.industries/](https://porchetta.industries/)
 
@@ -14,7 +17,7 @@ I'm not affiliated with CrackMapExec project, but I love their work!
 
 ## Support the Project
 
-Official Documentation : [https://wiki.porchetta.industries/](https://wiki.porchetta.industries/)
+Official Documentation: [https://wiki.porchetta.industries/](https://wiki.porchetta.industries/)
 
 {% embed url="https://porchetta.industries/#subscriptions" %}
 

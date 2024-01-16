@@ -1,8 +1,8 @@
 ---
 description: >-
-  This article discusses the use of CrackMapExec 5.4 to attack SMB (Samba)
-  protocols. Learn how to use this powerful tool to exploit the weaknesses in
-  SMB protocols and gain access to confidential data
+  Explore our comprehensive article on CrackMapExec smb, understand how it
+  functions, its diverse applications and learn to fortify your system against
+  potential attacks. Join us as we delve deep
 cover: ../../.gitbook/assets/CrackMapExec - SMB Modules.png
 coverY: 95.85903083700441
 ---
