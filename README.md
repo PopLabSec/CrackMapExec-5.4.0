@@ -1,8 +1,8 @@
 ---
 description: >-
-  Dive into our comprehensive article featuring the Keyword: CrackMapExec.
-  Discover its capabilities, from network defense to penetration testing, in a
-  detailed expose.
+  Dive into our comprehensive article about CrackMapExec. Discover its
+  capabilities, from network defense to penetration testing, in a detailed
+  expose.
 cover: .gitbook/assets/GitBook Covers (1).png
 coverY: 0
 ---
